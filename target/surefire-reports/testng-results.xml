@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-27T22:27:07 IST" name="Automation Test Suite" finished-at="2020-08-27T22:27:07 IST" duration-ms="71">
+  <suite started-at="2020-09-30T11:29:19 IST" name="Automation Test Suite" finished-at="2020-09-30T11:29:19 IST" duration-ms="71">
     <groups>
     </groups>
-    <test started-at="2020-08-27T22:27:07 IST" name="Automation Test" finished-at="2020-08-27T22:27:07 IST" duration-ms="71">
+    <test started-at="2020-09-30T11:29:19 IST" name="Automation Test" finished-at="2020-09-30T11:29:19 IST" duration-ms="71">
       <class name="com.qa.DemoTest">
-        <test-method signature="firstTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-08-27T22:27:07 IST" name="firstTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="8" status="PASS">
+        <test-method signature="firstTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-09-30T11:29:19 IST" name="firstTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method signature="fourthTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-08-27T22:27:07 IST" name="fourthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="fourthTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-09-30T11:29:19 IST" name="fourthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fourthTest -->
-        <test-method signature="secondTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-08-27T22:27:07 IST" name="secondTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="secondTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-09-30T11:29:19 IST" name="secondTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondTest -->
-        <test-method signature="thirdTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-08-27T22:27:07 IST" name="thirdTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="thirdTest()[pri:0, instance:com.qa.DemoTest@12d3a4e9]" started-at="2020-09-30T11:29:19 IST" name="thirdTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdTest -->
       </class> <!-- com.qa.DemoTest -->
       <class name="com.qa.DemoTest2">
-        <test-method signature="eigthTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-08-27T22:27:07 IST" name="eigthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- eigthTest -->
-        <test-method signature="fifthTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-08-27T22:27:07 IST" name="fifthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="fifthTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-09-30T11:29:19 IST" name="fifthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fifthTest -->
-        <test-method signature="seventhTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-08-27T22:27:07 IST" name="seventhTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="eigthTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-09-30T11:29:19 IST" name="eigthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eigthTest -->
+        <test-method signature="seventhTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-09-30T11:29:19 IST" name="seventhTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- seventhTest -->
-        <test-method signature="sixthTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-08-27T22:27:07 IST" name="sixthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="sixthTest()[pri:0, instance:com.qa.DemoTest2@240237d2]" started-at="2020-09-30T11:29:19 IST" name="sixthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sixthTest -->
       </class> <!-- com.qa.DemoTest2 -->
       <class name="com.qa.DemoTest3">
-        <test-method signature="eigthTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-08-27T22:27:07 IST" name="eigthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="eigthTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-09-30T11:29:19 IST" name="eigthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- eigthTest -->
-        <test-method signature="fifthTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-08-27T22:27:07 IST" name="fifthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="fifthTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-09-30T11:29:19 IST" name="fifthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fifthTest -->
-        <test-method signature="seventhTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-08-27T22:27:07 IST" name="seventhTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="seventhTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-09-30T11:29:19 IST" name="seventhTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- seventhTest -->
-        <test-method signature="sixthTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-08-27T22:27:07 IST" name="sixthTest" finished-at="2020-08-27T22:27:07 IST" duration-ms="0" status="PASS">
+        <test-method signature="sixthTest()[pri:0, instance:com.qa.DemoTest3@25a65b77]" started-at="2020-09-30T11:29:19 IST" name="sixthTest" finished-at="2020-09-30T11:29:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sixthTest -->

@@ -7,7 +7,7 @@ public class DemoTest {
   @Test
   public void firstTest() {
 	  System.out.println("from first test");
-	  Assert.assertTrue(true);
+	  Assert.assertTrue(false);
   }
   
   @Test
